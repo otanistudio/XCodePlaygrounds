@@ -1,3 +1,3 @@
-# iOS-Playgrounds
+# XCode-Playgrounds
 
-Stuff worth playing with.
+Everything is worth playing with (almost.)
